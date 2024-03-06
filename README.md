@@ -11,7 +11,7 @@ This is a simple URL shortener built using Node.js, Express, and MongoDB. It all
 
 To run the URL Shortener in the local environment, the following steps need to be followed - 
 
-1. Clone the github repository using 'git clone '
+1. Clone the github repository using 'git clone https://github.com/itsayushi19/URL-Shortener.git'
 2. Install the dependencies for both frontend and backend using the 'npm install' command
 3. Create a .env file and set up your MongoDB_URL using the url provided while creating the MongoDB database. Remember to replace the password in the url with your password.
-4. Run the terminal using 'npm start index' or directly type the url 'http://localhost:500' on your system
+4. Run the terminal using 'npm run dev' or directly type the url 'http://localhost:500' on your system
